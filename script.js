@@ -11,6 +11,10 @@ closeButton.addEventListener('click', () => {
   overlay.classList.remove('show');
 });
 
+document.querySelectorAll('#light-head').forEach((link) => link.addEventListener('click', () => {
+  overlay.classList.remove('show');
+}));
+
 // Speakers Data
 const speakersData = [
   {
