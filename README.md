@@ -83,7 +83,7 @@ Hello! Here you will see my first capstone project, based on an original design 
 
 ## 🎥 Loom Walkthrough <a name="loom-walkthrough"></a>
 
-- need to add link
+- [Loom Walkthrough Video Link](https://www.loom.com/share/cc776fd0ece644139437f5d3f6156331)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
