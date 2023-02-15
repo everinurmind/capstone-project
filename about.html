@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Robotics Engineering Conference</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<section id="top-head">
+    <ul>
+        <li><a id=dark-head href="#"><i class="lab la-facebook-f"></i></a></li>
+        <li><a id=dark-head href="#"><i class="lab la-twitter"></i></a></li>
+        <li><a id=dark-head href="#"><p>English</p></a></li>
+        <li><a id=dark-head href="#"><p>My Page</p></a></li>
+        <li><a id=dark-head href="#"><p>Logout</p></a></li>
+    </ul>
+</section>
+<header>    
+<section class="desktop-menu">
+    <div class="logo">
+        <i class="las la-globe"></i>
+        <a class="title">United Robotics</a>
+    </div>
+      <ul class="header-list">
+        <li><a id=light-head href="about.html">About</a></li>
+        <li><a id=light-head href="#">Program</a></li>
+        <li><a id=light-head href="#">Join</a></li>
+        <li><a id=light-head href="#">Sponsor</a></li>
+        <li><a id=light-head href="#">News</a></li>
+      </ul>
+</section>
+    <div class="mobile-menu">
+      <button class="hamburger"><i class="las la-bars"></i></button>
+    </div>
+    <div id="overlay">
+        <button id="close-button"><i class="las la-times"></i></button>
+        <ul class="overlay-list">
+          <li><a id=light-head href="index.html">Home</a></li>
+          <li><a id=light-head href="#">Program</a></li>
+          <li><a id=light-head href="#">Join</a></li>
+          <li><a id=light-head href="#">Sponsor</a></li>
+          <li><a id=light-head href="#">News</a></li>
+        </ul>
+    </div>         
+</header>
+<section class="main">
+  <main>
+    <h2>Welcome to the Robotics Engineering Conference website! </h2>
+    <h6>Here you will find all the information you need about our annual conference, which is dedicated to the latest advancements and innovations in the field of robotics.</h6>
+    <p>Our conference brings together robotics experts and industry professionals from around the world to share their knowledge and promote collaboration and innovation in the field.</p>
+    <h6>We look forward to seeing you at the Robotics Engineering Conference, where you will have the opportunity to learn, connect, and be inspired by the latest advancements in the field of robotics.</h6>
+    <h4>2023.02.15(Wed) ~ 15(Thru)<br>@ Maddison Square Center. New York City, NY</h4>
+  </main>      
+</section>
+<section id="form">
+  <h1>Robotics Engineering Conference Registration Form</h1>
+  <form action="https://formspree.io/f/mqkoarkl" method="POST">
+    <label for="name">name:</label>
+    <input type="text" id="name" name="name" required>
+
+    <label for="email">email:</label>
+    <input type="email" id="email" name="email" required>
+
+    <label for="affiliation">affiliation:</label>
+    <input type="text" id="affiliation" name="affiliation">
+
+    <label for="registration-type">registration type:</label>
+    <select id="registration-type" name="registration-type">
+      <option value="standard">standard</option>
+      <option value="student">student</option>
+      <option value="industry">industry</option>
+    </select>
+
+    <label for="attendee-type">attendee type:</label>
+    <select id="attendee-type" name="attendee-type">
+      <option value="researcher">researcher</option>
+      <option value="engineer">engineer</option>
+      <option value="educator">educator</option>
+      <option value="other">other</option>
+    </select>
+
+    <button type="submit">Register</button>
+  </form>
+</section>
+<footer>
+    <i class="las la-globe"></i>
+    <a class="title">United Robotics</a>
+    <p>&copy; 2023 Robotics Engineering. All Rights Reserved</p>
+</footer>
+  
+  <script src="script.js"></script>
+</body>
+</html>
