@@ -40,7 +40,7 @@
 
 # 📖 Personal Portfolio <a name="about-project"></a>
 
-Hello! Here you will see my first capstone project.
+Hello! Here you will see my first capstone project, based on an original design idea by [Cindy Shin in Behance](https://www.behance.net/adagio07).
 
 ## 🛠 Built With HTML & CSS <a name="built-with"></a>
 
