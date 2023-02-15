@@ -1,21 +1,3 @@
-<a name="readme-top"></a>
-
-<div align="center">
-
-  <img src="images\testlogo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>ReadMe</b></h3>
-
-</div>
-
-### 👤 Author
-  
-**Nurbol Sultanov**
-
-- GitHub: [@everinurmind](https://github.com/everinurmind)
-
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -75,12 +57,6 @@ Hello! Here you will see my first capstone project, based on an original design 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://github.com/everinurmind/capstone-project)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 🎥 Loom Walkthrough <a name="loom-walkthrough"></a>
 
 - [Loom Walkthrough Video Link](https://www.loom.com/share/cc776fd0ece644139437f5d3f6156331)
@@ -93,19 +69,31 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need to get access to repository.
+- You don't need any previous installation in order to run this project
+
 
 ### Setup
 
-Clone this repository to your desired folder.
+Clone this repository to your desired folder:
+
+```sh
+  cd my-folder
+  git clone https://github.com/everinurmind/capstone-project
+```
 
 ### Install
 
-This project do not need Installation.
+- This is not an installable project
 
-### Run tests 
 
-Tests have not applied yet.
+### Usage
+
+- There's no command required to run the project
+
+
+### Run tests
+
+- There's no test for this project
 
 ### Deployment
 
