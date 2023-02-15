@@ -69,7 +69,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-- You don't need any previous installation in order to run this project
+- install git, install VSCode
 
 
 ### Setup
@@ -83,12 +83,12 @@ Clone this repository to your desired folder:
 
 ### Install
 
-- This is not an installable project
+- npm install
 
 
 ### Usage
 
-- There's no command required to run the project
+- open with live server extention on VSCode
 
 
 ### Run tests
