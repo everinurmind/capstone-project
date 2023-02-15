@@ -10,6 +10,13 @@
   color: #ec5242;
 }
 
+.logo > a {
+  text-decoration: none;
+  font-size: 24px;
+  color: #272a31;
+  font-weight: 900;
+}
+
 /* Mobile Styles */
 @media screen and (max-width: 768px) {
   #top-head > ul {
