@@ -134,6 +134,7 @@ Please leave me review if you have any questions or remarks.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 Thanks to Microverse team, for all help and support on this project.
+Thanks to Cindy Shin, whos original design on Behance was used to create this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
