@@ -20,7 +20,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Personal Portfolio <a name="about-project"></a>
+# 📖 First Capstone <a name="about-project"></a>
 
 Hello! Here you will see my first capstone project, based on an original design idea by [Cindy Shin in Behance](https://www.behance.net/adagio07).
 
@@ -97,7 +97,7 @@ Clone this repository to your desired folder:
 
 ### Deployment
 
-The project has been deployed on (https://everinurmind.github.io)
+The project has not been deployed yet
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,8 +110,8 @@ The project has been deployed on (https://everinurmind.github.io)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [developing personal portfolio] **[Adding more pages]**
-- [will make own design for portfolio] **[Creating own design]**
+- **[Adding more pages]**
+- **[Creating own design]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
