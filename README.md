@@ -97,7 +97,7 @@ Clone this repository to your desired folder:
 
 ### Deployment
 
-The project has not been deployed yet
+The project has been deployed on https://everinurmind.github.io/capstone-project/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
